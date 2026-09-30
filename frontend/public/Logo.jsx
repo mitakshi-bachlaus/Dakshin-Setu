@@ -45,7 +45,7 @@ export default function Logo() {
             {/* Institutional Identity */}
             <div className="flex flex-col justify-center">
                 <span className="text-lg font-extrabold tracking-wide leading-none text-gray-900 dark:text-white">
-                    NCPOR
+                    DAKSHIN SETU
                 </span>
                 <span className="mt-1 text-[10px] font-bold uppercase tracking-[0.2em] text-cyan-600 dark:text-cyan-400 leading-none">
                     Polar Twin
